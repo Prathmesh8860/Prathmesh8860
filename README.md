@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hey there, I'm Prathmesh!
+I'm a data analyst who loves digging into data to find solutions to tricky problems. I have a Master's in Economics and certifications in Data Analytics and AI, and I'm always looking for new ways to turn raw numbers into clear, actionable insights.
 
-<!--
-**Prathmesh8860/Prathmesh8860** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ My Data Toolbox:
 
-Here are some ideas to get you started:
+- Languages: Python, R, SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Analytics & BI: Tableau, Power BI, Advanced Excel
+
+- Other Skills: Data Visualization, Building Reports, AI Tools
+
+### 🚀 What I'm Passionate About:
+
+I'm all about combining analytical tools with AI techniques to understand trends and help make better decisions. My experience ranges from cleaning and processing datasets to creating dashboards and reports that tell a story.
+
+### 🌟 Let's Connect!
+
+I'm always learning and excited to collaborate on new projects. Feel free to connect with me on LinkedIn!
+
+### 🔗 LinkedIn: www.linkedin.com/in/prathmesh-gaikwad-bbb142322
